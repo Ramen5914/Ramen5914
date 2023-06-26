@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://github.com/Ramen5914/github-stats/blob/master/generated/languages.svg)
+![](https://github.com/Ramen5914/github-stats/blob/master/generated/overview.svg)![](https://github.com/Ramen5914/github-stats/blob/master/generated/languages.svg)
